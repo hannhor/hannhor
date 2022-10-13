@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hannhor
-- 👀 I’m interested in forensic medicine, 
+- 👀 I’m interested in forensic medicine, vetrinary medicine and data analaysis.
 - 🌱 I’m currently learning Python, Sas and SQL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://pl.linkedin.com/in/hanna-horbacz-25b53121a
 
 <!---
